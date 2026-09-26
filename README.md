@@ -1,7 +1,7 @@
-# system-verilog
+# verilog-design
 
 ## About
-Code files written in System Verilog used to run on Nexys Artix 7 FPGA
+Code files written in Verilog used to run on Nexys Artix 7 FPGA
 
 ## Files
 - Design Source (modules)
