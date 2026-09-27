@@ -1,4 +1,4 @@
-# verilog-design
+# verilog designs
 
 ## About
 Code files written in Verilog used to run on Nexys Artix 7 FPGA
